@@ -1,1 +1,1 @@
-# JS-TickTackToe
+# JS-TickTacToe
